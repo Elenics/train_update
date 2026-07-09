@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.10/app.apk",
+  "versionCode": 11,
+  "versionName": "0.11",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.11/app.apk",
   "mandatory": false,
-  "notes": "역 드롭다운 · 후원 · 자동 업데이트"
+  "notes": "예약 성공 시 강한 진동 · 업데이트 완료 안내 팝업"
 }
