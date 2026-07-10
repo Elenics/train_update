@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.17/app.apk",
+  "versionCode": 18,
+  "versionName": "0.18",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.18/app.apk",
   "mandatory": false,
-  "notes": "공격 모드 추가 (초고속 폴링, 밴 위험 경고 표시)"
+  "notes": "속도 극한 최적화: 검색범위 자동축소 + NetFunnel 요청 반감 + 공격 delay 인하 + 저격 모드(예약 연타) 추가"
 }
