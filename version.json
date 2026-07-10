@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.14/app.apk",
+  "versionCode": 15,
+  "versionName": "0.15",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.15/app.apk",
   "mandatory": false,
-  "notes": "진행상황 실시간 표시 · 필수입력 안내 · 출발/도착 시간 직접선택"
+  "notes": "진행 로그 박스로 정리 · 후원 위치 개선"
 }
