@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.15/app.apk",
+  "versionCode": 16,
+  "versionName": "0.16",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.16/app.apk",
   "mandatory": false,
-  "notes": "진행 로그 박스로 정리 · 후원 위치 개선"
+  "notes": "알림 탭하면 앱으로 전환"
 }
