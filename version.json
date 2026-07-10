@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.16/app.apk",
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.17/app.apk",
   "mandatory": false,
-  "notes": "알림 탭하면 앱으로 전환"
+  "notes": "공격 모드 추가 (초고속 폴링, 밴 위험 경고 표시)"
 }
