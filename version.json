@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.26/app.apk",
+  "versionCode": 27,
+  "versionName": "0.27",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.27/app.apk",
   "mandatory": false,
-  "notes": "출발·도착역 기본값 추가와 마지막 선택 기억, 날짜·시간 자동 채움으로 조회가 더 빨라졌어요."
+  "notes": "시간 선택이 룰렛(휠)로 바뀌었어요 — 스크롤로 시·분을 편하게 고르세요."
 }
