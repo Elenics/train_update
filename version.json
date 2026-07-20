@@ -3,5 +3,5 @@
   "versionName": "0.22",
   "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.22/app.apk",
   "mandatory": false,
-  "notes": "익명 실행 통계 추가(개인정보 수집 없음) · 내부 안정화"
+  "notes": "안정성 개선"
 }
