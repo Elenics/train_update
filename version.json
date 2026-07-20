@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.22/app.apk",
+  "versionCode": 23,
+  "versionName": "0.23",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.23/app.apk",
   "mandatory": false,
   "notes": "안정성 개선"
 }
