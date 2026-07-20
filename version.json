@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.20/app.apk",
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.21/app.apk",
   "mandatory": false,
-  "notes": "KTX(코레일) 추가! 상단 SRT/KTX 토글로 코레일 취소표도 감시·자동예약. 코레일은 SRT와 별도 계정으로 로그인하세요."
+  "notes": "앱 이름·아이콘 새단장: '취소표 헌터'(남색·민트 고속열차 — SRT/KTX 공용). KTX 공격모드 경고 문구가 SRT로 뜨던 것 수정."
 }
