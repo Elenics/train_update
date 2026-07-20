@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.21/app.apk",
+  "versionCode": 22,
+  "versionName": "0.22",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.22/app.apk",
   "mandatory": false,
-  "notes": "앱 이름·아이콘 새단장: '취소표 헌터'(남색·민트 고속열차 — SRT/KTX 공용). KTX 공격모드 경고 문구가 SRT로 뜨던 것 수정."
+  "notes": "익명 실행 통계 추가(개인정보 수집 없음) · 내부 안정화"
 }
