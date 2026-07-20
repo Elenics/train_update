@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.24/app.apk",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.25/app.apk",
   "mandatory": false,
-  "notes": "안정성 개선"
+  "notes": "업데이트 진행률 표시 개선"
 }
