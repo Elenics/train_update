@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.27/app.apk",
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.28/app.apk",
   "mandatory": false,
-  "notes": "시간 선택이 룰렛(휠)로 바뀌었어요 — 스크롤로 시·분을 편하게 고르세요."
+  "notes": "KTX 단일화(SRT 제거)·열차 카드 리디자인·요금 표시·날짜 휠 피커"
 }
