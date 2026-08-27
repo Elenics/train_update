@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.28/app.apk",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.29/app.apk",
   "mandatory": false,
-  "notes": "KTX 단일화(SRT 제거)·열차 카드 리디자인·요금 표시·날짜 휠 피커"
+  "notes": "SRT 8월 운행분 조회 복구(SRT/KTX 탭 분리) + 역 목록 가나다순 정렬"
 }
