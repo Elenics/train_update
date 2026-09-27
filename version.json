@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.32/app.apk",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.33/app.apk",
   "mandatory": false,
-  "notes": "까지 시간이 부터보다 앞설 수 없게 자동 보정(+1시간, 분 보존) / SRT-KTX 통합 안내 최초 팝업 제거"
+  "notes": "snipe mode parallel reservation across selected trains"
 }
