@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34",
-  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.34/app.apk",
+  "versionCode": 35,
+  "versionName": "0.35",
+  "apkUrl": "https://github.com/Elenics/train_update/releases/download/v0.35/app.apk",
   "mandatory": false,
-  "notes": "저격 모드 안내문 수정: 여러 열차 선택해도 이제 동시에 시도합니다(더 빨라짐, 대신 차단위험도 함께 커지니 꼭 필요한 열차만)"
+  "notes": "로그인 오류 수정: 코레일 로그인이 갑자기 막히던 문제를 해결했습니다. 기기마다 고유 식별값을 쓰도록 바꿔 다시 정상 로그인됩니다."
 }
